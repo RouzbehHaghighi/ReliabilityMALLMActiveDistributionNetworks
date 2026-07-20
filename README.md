@@ -1,4 +1,4 @@
-# _MA_LLM_Reliability_Visualization_Active_Distribution_Networks
+# MA_LLM_Reliability_Visualization_Active_Distribution_Networks
 
 This repository provides supplementary materials and reproducible resources for the paper:
 
