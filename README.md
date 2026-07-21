@@ -54,6 +54,6 @@ $$
 where $P_{\mathrm{PV}}^{\mathrm{r}}$ is the rated PV active power (kW); $G_{\mathrm{irr}}$ is the solar irradiance (W/m²); $T_{\mathrm{a}}$ is the ambient temperature (°C); $\eta_T$ is the PV temperature coefficient (1/°C); $G_{\mathrm{ref}}$ is the reference irradiance; and $T_{\mathrm{ref}}$ is the reference cell temperature.
 
 
-<img width="1000" height="350" alt="Git_Converter_Topology" src="https://github.com/user-attachments/assets/b2a3b9ac-4461-42a2-998e-503ffed38c4e" />
+<img width="1000" height="250" alt="Git_Converter_Topology" src="https://github.com/user-attachments/assets/b2a3b9ac-4461-42a2-998e-503ffed38c4e" />
 
 
